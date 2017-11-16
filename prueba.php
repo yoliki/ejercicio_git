@@ -1,5 +1,8 @@
-<?php
+<html>
 
+<head>
+
+<style>
 .EstiloTexto{
     color:#FE0000;
     font-weight: bold;
@@ -7,6 +10,20 @@
     font-family:Verdana, Arial, Helvetica, sans-serif;
     font-size: 25px;
 }
+</style>
 
-echo "Hello Yoli";
-echo "<span class='EstiloTexto'>Hola a todos</span>";
+</head>
+<body>
+
+<?php echo "Hello Yoli"; ?>
+<span class="EstiloTexto">Hola a todos</span>
+
+
+</body>
+
+
+
+</html>
+
+
+
